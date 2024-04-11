@@ -1,4 +1,4 @@
 [submodule "nya-blog/themes/blowfish"]
 	path = nya-blog/themes/blowfish
-	url = http://github.com/nunocoracao/blowfish.git
+	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
